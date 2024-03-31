@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ExercicioAlfasoft.Data;
 using ExercicioAlfasoft.Models;
+using Azure;
+using System.Diagnostics;
+using System.ComponentModel.DataAnnotations;
+using ExercicioAlfasoft.Data.Migrations;
 
 namespace ExercicioAlfasoft.Controllers
 {
@@ -22,7 +26,8 @@ namespace ExercicioAlfasoft.Controllers
         // GET: Contacts
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Contact.ToListAsync());
+            //return View(await _context.Contact.ToListAsync());
+            return View(await _context.Contact.Where(isdel => !isdel.isDeleted).ToListAsync());
         }
 
         // GET: Contacts/Details/5
@@ -54,7 +59,7 @@ namespace ExercicioAlfasoft.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,name,phoneNumber,email")] Contact contact)
+        public async Task<IActionResult> Create([Bind("isDeleted,Id,name,phoneNumber,email")] Contact contact)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +91,7 @@ namespace ExercicioAlfasoft.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,name,phoneNumber,email")] Contact contact)
+        public async Task<IActionResult> Edit(int id, [Bind("isDeleted,Id,name,phoneNumber,email")] Contact contact)
         {
             if (id != contact.Id)
             {
@@ -143,6 +148,38 @@ namespace ExercicioAlfasoft.Controllers
             if (contact != null)
             {
                 _context.Contact.Remove(contact);
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+        
+        public async Task<IActionResult> SoftDelete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var contact = await _context.Contact.FindAsync(id);
+            if (contact == null)
+            {
+                return NotFound();
+            }
+            return View(contact);
+        }
+
+        // POST: Contacts/SoftDelete/6
+        [HttpPost, ActionName("SoftDelete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> SoftDelete(int id)
+        {
+            var contact = await _context.Contact.FindAsync(id);
+            if (contact != null)
+            {
+                contact.isDeleted = true;
+                _context.Update(contact);
+                await _context.SaveChangesAsync();
             }
 
             await _context.SaveChangesAsync();

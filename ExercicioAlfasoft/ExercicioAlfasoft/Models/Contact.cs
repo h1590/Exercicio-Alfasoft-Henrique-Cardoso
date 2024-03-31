@@ -2,6 +2,8 @@
 {
     public class Contact
     {
+        public bool isDeleted { get; set; }
+
         public int Id { get; set; }
 
         public string name { get; set; }

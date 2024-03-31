@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +42,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:59:47.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:59:41.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:59:29.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:57:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:55:53.745Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +113,14 @@
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Controllers\\ContactsController.cs",
               "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "ExercicioAlfasoft\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T14:40:50.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Controllers\\HomeController.cs",
@@ -47,21 +128,19 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:40:02.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T14:40:02.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Models\\Contact.cs",
               "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Models\\Contact.cs",
               "RelativeToolTip": "ExercicioAlfasoft\\Models\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:39:44.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T14:39:44.886Z"
             }
           ]
         }
