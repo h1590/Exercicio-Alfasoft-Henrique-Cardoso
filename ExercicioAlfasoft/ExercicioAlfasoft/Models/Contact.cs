@@ -1,11 +1,16 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ExercicioAlfasoft.Controllers;
+using ExercicioAlfasoft.Data;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
+using System.ComponentModel.DataAnnotations;
+using System.Diagnostics.Metrics;
 
 namespace ExercicioAlfasoft.Models
 {
     public class Contact
     {
         public bool isDeleted { get; set; }
-
 
         public int Id { get; set; }
 
@@ -20,6 +25,8 @@ namespace ExercicioAlfasoft.Models
         [Required]
         [DataType(DataType.EmailAddress)]
         public string email { get; set; }
+
+
 
         public Contact()
         {
