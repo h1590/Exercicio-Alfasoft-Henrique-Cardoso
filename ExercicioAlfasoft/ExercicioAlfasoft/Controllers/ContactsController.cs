@@ -76,17 +76,20 @@ namespace ExercicioAlfasoft.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("isDeleted,Id,name,phoneNumber,email")] Contact contact)
         {
+            bool isUnique = true;
             if (_context.Contact.Any(x => x.name == contact.name && x.Id != contact.Id))
             {
+                isUnique = false;
                 ModelState.AddModelError("name", "Name already exists");
             }
 
             if (_context.Contact.Any(x => x.email == contact.email && x.Id != contact.Id))
             {
+                isUnique = false;
                 ModelState.AddModelError("email", "Email already exists");
             }
 
-            if (ModelState.IsValid)
+            if (ModelState.IsValid && isUnique)
             {
                 _context.Add(contact);
                 await _context.SaveChangesAsync();
