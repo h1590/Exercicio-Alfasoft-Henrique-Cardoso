@@ -11,6 +11,7 @@ using Azure;
 using System.Diagnostics;
 using System.ComponentModel.DataAnnotations;
 using ExercicioAlfasoft.Data.Migrations;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ExercicioAlfasoft.Controllers
 {
