@@ -3,7 +3,20 @@
   "WorkspaceRootPath": "D:\\Alfasoft\\ExercicioAlfasoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ExercicioAlfasoft_5b6b3750_5d9a_447e_96e5_fa385e2539fd/True/SqlTable/dbo.Contact.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -32,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|solutionrelative:exercicioalfasoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42364020-12C2-470A-ADF7-A6775F0BC5E7}|ExercicioAlfasoft\\ExercicioAlfasoft.csproj|d:\\alfasoft\\exercicioalfasoft\\exercicioalfasoft\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\Program.cs",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Program.cs",
+              "RelativeToolTip": "ExercicioAlfasoft\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:15:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\appsettings.json",
+              "RelativeDocumentMoniker": "ExercicioAlfasoft\\appsettings.json",
+              "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\appsettings.json",
+              "RelativeToolTip": "ExercicioAlfasoft\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T20:14:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\_ViewStart.cshtml",
@@ -69,12 +100,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T17:06:40.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T17:06:40.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Home\\Index.cshtml",
@@ -82,12 +112,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T17:06:32.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T17:06:32.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
@@ -95,12 +124,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Edit.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T15:59:47.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T15:59:47.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
@@ -108,25 +136,24 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Details.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T15:59:41.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T15:59:41.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
               "ToolTip": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Delete.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-31T15:59:29.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
@@ -134,12 +161,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Contacts\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T15:57:47.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T15:57:47.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Contacts\\Index.cshtml",
@@ -151,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Controllers\\ContactsController.cs",
@@ -159,12 +185,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Controllers\\ContactsController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAIwFsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:40:50.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T14:40:50.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Models\\Contact.cs",
@@ -176,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\Shared\\_Layout.cshtml",
@@ -184,22 +209,11 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T17:06:48.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T17:06:48.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Contact [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ExercicioAlfasoft_5b6b3750_5d9a_447e_96e5_fa385e2539fd/True/SqlTable/dbo.Contact.sql",
-              "ToolTip": "dbo.Contact [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-31T18:38:04.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Alfasoft\\ExercicioAlfasoft\\ExercicioAlfasoft\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ExercicioAlfasoft\\Views\\_ViewImports.cshtml",
@@ -207,8 +221,7 @@
               "RelativeToolTip": "ExercicioAlfasoft\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T17:06:42.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T17:06:42.149Z"
             }
           ]
         }
